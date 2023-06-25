@@ -1,6 +1,6 @@
 # SOC Analyst Lab
 
-The SOC Analyst Lab is a hands-on project that demonstrates various aspects of security operations and threat detection. It provides a simulated environment for setting up a Security Operations Center (SOC), deploying a Command and Control (C2) server, executing adversarial actions, and creating detection and response (D&R) rules using LimaCharlie.
+In this project, I am building a SOC Analyst Lab that serves as a controlled environment for testing and enhancing my skills as a SOC analyst. It provides a platform to simulate various security scenarios, enabling me to learn and develop effective strategies for detecting and mitigating threats. In future projects, I will leverage this SOC lab to explore a wider range of attacks, including phishing malware, ransomware, network intrusions, and other sophisticated threat vectors. By continually expanding my repertoire of attack simulations, I aim to strengthen my ability to safeguard organizations against evolving cyber threats.
 
 ## Project Highlights
 
